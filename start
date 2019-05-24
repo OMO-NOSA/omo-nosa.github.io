@@ -1,6 +1,0 @@
-#!/bin/sh
-
-# starts TW on port 4020
-
-tiddlywiki newwiki --server 4020
-
