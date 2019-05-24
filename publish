@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# build a single File TW in newwiki/output/index.html
+
+tiddlywiki newwiki --build index
+mv newwiki/output/index.html ..
+
